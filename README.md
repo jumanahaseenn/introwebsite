@@ -1,4 +1,4 @@
-# These files serve to show us the first look into the GoodEats app where customers and businesses can take advantage of unique features.
+#First Draft look into the GoodEats app 
 
 The basic layout of the web-application currently as follows:
 **Home Page:**
